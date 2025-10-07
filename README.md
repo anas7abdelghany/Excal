@@ -17,7 +17,7 @@ The dashboard helps management monitor **deal outcomes**, **revenue trends**, an
 ## 📁 Dashboard Pages
 
 ### **1️⃣ Page 1: Sales Overview**
-![Sales Dashboard](./9110a7ca-973e-4d58-b187-244172a6b656.png)
+![Sales Dashboard](./dash1.png)
 
 **Key Insights:**
 - 💰 **Total Price per Product** (bar + donut charts).  
